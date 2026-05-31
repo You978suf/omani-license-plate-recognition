@@ -1,0 +1,6 @@
+{
+  "strategies": {
+    "transformer_constrained": "best.pt",
+    "transformer_greedy": "best.pt"
+  }
+}

@@ -1,0 +1,24 @@
+﻿# Generated folders
+__pycache__/
+runs/
+outputs/
+
+# Big archives
+*.zip
+*.rar
+
+# Trained model
+best.pt
+
+# Data folders
+train/
+val/
+test1/
+
+# Leftover data & submission folders
+archive/
+test1-20260508/
+COMP4609_PROJECT_SUBMISSION_INSTRUCTIONS/
+
+# CSV data files
+*.csv
